@@ -2,6 +2,10 @@
 
 This repository contains a simple neural network implementation in Java, trained on the MNIST dataset. The network is designed to recognize handwritten digits, achieving this by calculating and adjusting weights and biases during training. The resulting weights and biases are stored in a log file for future use.
 
+# Instructions
+Please download the MNIST dataset from this Google Drive link, extract the contents, and place them in the "data" folder.
+link : https://drive.google.com/drive/folders/1WznmCA4huRWaZMk5ubp4xsPGcECDLS7u?usp=sharing
+
 # Features
 Neural Network Architecture: A basic neural network with configurable layers.
 Training on MNIST Dataset: Uses the MNIST dataset of handwritten digits for training.
