@@ -1,0 +1,3 @@
+Please download the MNIST dataset from this Google Drive link, extract the contents, and place them in the "data" folder.
+
+link : https://drive.google.com/drive/folders/1WznmCA4huRWaZMk5ubp4xsPGcECDLS7u?usp=sharing
