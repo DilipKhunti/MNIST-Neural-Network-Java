@@ -93,3 +93,9 @@ Enter Digit Value: 7
 Enter Image Name: digit7.png
 # Tests the network on a custom image of the digit 7
 ```
+
+##Contributing
+Contributions are welcome! If you find any bugs or want to add features, feel free to open an issue or submit a pull request.
+
+##Acknowledgments
+The MNIST dataset is provided by Yann LeCun. The neural network concepts are based on standard machine learning and deep learning principles.
