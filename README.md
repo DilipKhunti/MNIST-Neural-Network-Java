@@ -25,8 +25,9 @@ The project is structured into the following packages:
 
 ### Prerequisites
 
+
 - **Java**: Make sure you have Java Development Kit (JDK) installed on your system.
-- **MNIST Dataset**: Download the MNIST dataset files (`train-images.idx3-ubyte`, `train-labels.idx1-ubyte`, `t10k-images.idx3-ubyte`, and `t10k-labels.idx1-ubyte`) and place them in the `data` directory.
+- **MNIST Dataset**: Download the MNIST dataset files (`train-images.idx3-ubyte`, `train-labels.idx1-ubyte`, `t10k-images.idx3-ubyte`, and `t10k-labels.idx1-ubyte`) from `https://drive.google.com/drive/folders/1WznmCA4huRWaZMk5ubp4xsPGcECDLS7u?usp=sharing` and place them in the `data` directory.
 
 ### Running the Application
 
