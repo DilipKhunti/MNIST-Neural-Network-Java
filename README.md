@@ -35,8 +35,8 @@ The project is structured into the following packages:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/mnist-neural-network.git
-    cd mnist-neural-network
+    git clone https://github.com/DilipKhunti/MNIST-Neural-Network-Java.git
+    cd MNIST-Neural-Network-Java
     ```
 
 2. **Compile the Code:**
